@@ -1,6 +1,6 @@
 {
   "native_dependencies": {
     "@minecraft/common": "^1.0.0",
-    "@minecraft/server": "^1.3.0"
+    "@minecraft/server": "^2.0.0"
   }
 }
